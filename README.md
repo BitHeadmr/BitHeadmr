@@ -60,17 +60,11 @@ I'm a highly motivated **Full Stack Developer** with expertise in modern web tec
 ---
 
 ## 🏆 GitHub Stats & Achievements  
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=BitHeadmr&show_icons=true&count_private=true&theme=gruvbox" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitHeadmr&layout=compact&count_private=true&theme=gruvbox" />
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BitHeadmr&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BitHeadmr&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitHeadmr&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
 
 ### 🏅 GitHub Trophies  
 [![trophy](https://github-profile-trophy.vercel.app/?username=BitHeadmr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
