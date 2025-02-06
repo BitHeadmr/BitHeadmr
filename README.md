@@ -78,8 +78,8 @@ I'm a highly motivated **Full Stack Developer** with expertise in modern web tec
 ---
 
 ## 🌀 GitHub Contribution Snake  
-![](https://raw.githubusercontent.com/BitHeadmr/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/BitHeadmr/BitHeadmr/output/dist/github-contribution-grid-snake.svg)
+
 
 ---
 
