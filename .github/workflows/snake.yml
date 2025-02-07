@@ -41,7 +41,7 @@ jobs:
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GH_PAT }}  # Using Personal Access Token
+          personal_token: ${{ secrets.GH_PAT }}  # Use Personal Access Token
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Update snake animation [skip ci]"
