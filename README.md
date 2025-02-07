@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&width=600&lines=Full+Stack+Developer;Passionate+about+Web+Technologies;Building+Scalable+and+Efficient+Applications" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=600&lines=Full+Stack+Developer;Passionate+about+Web+Technologies;Building+Scalable+and+Efficient+Applications;Enthusiastic+about+Open+Source;Always+Learning+New+Technologies;Problem+Solver+and+Critical+Thinker" alt="Typing Animation" />
 </p>
 
 ---
@@ -22,7 +22,6 @@ I'm a highly motivated **Full Stack Developer** with expertise in modern web tec
 - **Blockchain Development**  
 
 ---
-
 ## 🛠️ Tech Stack & Skills  
 
 <details>
@@ -59,18 +58,27 @@ I'm a highly motivated **Full Stack Developer** with expertise in modern web tec
 
 ---
 
-## 🏆 GitHub Stats & Achievements  
+## 🎯 GitHub Contributions & Stats   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BitHeadmr&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BitHeadmr&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitHeadmr&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=BitHeadmr&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BitHeadmr&theme=highcontrast&hide_border=false" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitHeadmr&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="36%" /> </br>
 </div>
 
 ### 🏅 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=BitHeadmr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BitHeadmr&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BitHeadmr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=BitHeadmr&icon=4&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/bithead) 
+
+  
 
 ## 📫 Let's Connect  
 
@@ -83,5 +91,8 @@ I'm a highly motivated **Full Stack Developer** with expertise in modern web tec
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BitHeadmr&color=green" alt="Profile views" />
 </p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ⭐️ From [BitHeadmr](https://github.com/BitHeadmr)
